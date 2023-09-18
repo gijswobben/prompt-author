@@ -1,0 +1,23 @@
+template: medium_blog_post
+persona: default
+topic: Responsible AI
+context: >
+    From self-driving cars to healthcare diagnostics, AI is
+    revolutionizing industries by automating processes, improving
+    decision-making, and uncovering insights from vast amounts of data.
+    However, this transformative power comes with ethical challenges
+    that demand our attention. Biased algorithms, loss of privacy, and
+    the potential for job displacement are just a few of the issues that
+    arise from unchecked AI development.
+
+    Enter Responsible AI. This paradigm emphasizes a thoughtful and
+    holistic approach to AI design, development, and deployment. It
+    encompasses principles like transparency, fairness, accountability,
+    and user privacy. Responsible AI encourages us to ask critical
+    questions: How can we ensure that AI decisions are understandable
+    and explainable? How do we prevent AI systems from perpetuating
+    biases present in historical data? How can we strike a balance
+    between AI innovation and human oversight?
+
+model-config:
+  temperature: 0.7
